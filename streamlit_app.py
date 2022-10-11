@@ -27,7 +27,6 @@ streamlit.dataframe(fruits_to_show)
 
  
 
-streamlit. STREET EMEC Fruit AVEC)
 
  
 
